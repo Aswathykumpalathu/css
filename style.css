@@ -1,0 +1,14 @@
+h2{
+    color:blue;
+    text-align:center;
+}
+
+#second {
+color:red;
+}
+.text {
+    color:brown;
+    border: 1px solid red;
+    margin: 20px 40px 50px;
+    padding: 30px 50px 20px;
+}
